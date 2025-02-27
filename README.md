@@ -2,3 +2,10 @@
 # SmartSaberIA
 Colombia es uno de los países con los resultados más bajos en las pruebas internacionales que evalúan la calidad educativa. La posibilidad de predecir los puntajes de los estudiantes en diferentes exámenes puede ser clave para mejorar su desempeño. Por ello, el desarrollo de modelos de Inteligencia Artificial en la educación no es solo una innovación, sino una necesidad para construir un aprendizaje más inclusivo, personalizado y efectivo. El futuro de la educación dependerá de cómo utilicemos la tecnología para potenciar el conocimiento y transformar vidas.
 
+ Fuente de Datos
+Los datos utilizados en este proyecto provienen del siguiente conjunto de datos disponible en Kaggle:
+
+📂 Students Performance Dataset
+📌 Autor: Rabie El Kharoua
+📅 Año: 2024
+🔗 Fuente: Kaggle
